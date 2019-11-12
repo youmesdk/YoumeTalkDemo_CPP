@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fa837761-b011-4839-9757-7ed91606020c++9063",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fa837761-b011-4839-9757-7ed91606020c++9063" : {
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "client\/av\/SDKTest\/trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fa837761-b011-4839-9757-7ed91606020c++9063" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "384E7C6E-B21A-41AD-A67D-D29D26CE8496",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fa837761-b011-4839-9757-7ed91606020c++9063" : "worksample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TalkCppSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/Talk\/Talk_cocos_C++_Sample\/TalkCppSample\/proj.ios_mac\/TalkCppSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.nxit.us:9888\/repos\/hellocat",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fa837761-b011-4839-9757-7ed91606020c++9063"
+    }
+  ]
+}
